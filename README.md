@@ -2,7 +2,6 @@
 - 👀 I’m interested in AWS Bedrock and other GenAI technologies
 - 🌱 I’m currently learning ... something new.. it keeps on changing ...
 - 📫 How to reach me: Step 1. Walk towards me. Step 2. Say Hi! 
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: alias please="sudo $(fc -ln -1)"
 
 
